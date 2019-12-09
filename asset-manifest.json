@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/GoblinWebsite/static/css/main.f9d96440.chunk.css",
+    "main.js": "/GoblinWebsite/static/js/main.450bc42c.chunk.js",
+    "main.js.map": "/GoblinWebsite/static/js/main.450bc42c.chunk.js.map",
+    "runtime-main.js": "/GoblinWebsite/static/js/runtime-main.3b5e783b.js",
+    "runtime-main.js.map": "/GoblinWebsite/static/js/runtime-main.3b5e783b.js.map",
+    "static/js/2.1e284c41.chunk.js": "/GoblinWebsite/static/js/2.1e284c41.chunk.js",
+    "static/js/2.1e284c41.chunk.js.map": "/GoblinWebsite/static/js/2.1e284c41.chunk.js.map",
+    "index.html": "/GoblinWebsite/index.html",
+    "precache-manifest.d22dc6f21e0b158da4ee7109eeae0c6e.js": "/GoblinWebsite/precache-manifest.d22dc6f21e0b158da4ee7109eeae0c6e.js",
+    "service-worker.js": "/GoblinWebsite/service-worker.js",
+    "static/css/main.f9d96440.chunk.css.map": "/GoblinWebsite/static/css/main.f9d96440.chunk.css.map",
+    "static/media/logo.svg": "/GoblinWebsite/static/media/logo.25bf045c.svg",
+    "static/media/FirstSectionStyle.css": "/GoblinWebsite/static/media/volcano3.7df2ab81.jpeg",
+    "static/media/ContentStyle.css": "/GoblinWebsite/static/media/volcano5.8aa3e958.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b5e783b.js",
+    "static/js/2.1e284c41.chunk.js",
+    "static/css/main.f9d96440.chunk.css",
+    "static/js/main.450bc42c.chunk.js"
+  ]
+}
