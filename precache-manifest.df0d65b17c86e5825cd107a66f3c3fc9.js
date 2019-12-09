@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4034b0970f47a35ad2d317fcf95ad1a8",
+    "revision": "7ca09b7e8001d0591ab7c3de96deb354",
     "url": "/GoblinWebsite/index.html"
   },
   {
-    "revision": "3e14c8a1580e8e1b6246",
+    "revision": "0e8b37f512a8dac8c600",
     "url": "/GoblinWebsite/static/css/main.f9d96440.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GoblinWebsite/static/js/2.1e284c41.chunk.js"
   },
   {
-    "revision": "3e14c8a1580e8e1b6246",
-    "url": "/GoblinWebsite/static/js/main.1359129d.chunk.js"
+    "revision": "0e8b37f512a8dac8c600",
+    "url": "/GoblinWebsite/static/js/main.ec519bd3.chunk.js"
   },
   {
     "revision": "c31d3c0d0d86d74af32a",
