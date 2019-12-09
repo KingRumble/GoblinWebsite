@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/GoblinWebsite/static/css/main.f9d96440.chunk.css",
-    "main.js": "/GoblinWebsite/static/js/main.eae63d82.chunk.js",
-    "main.js.map": "/GoblinWebsite/static/js/main.eae63d82.chunk.js.map",
+    "main.js": "/GoblinWebsite/static/js/main.1359129d.chunk.js",
+    "main.js.map": "/GoblinWebsite/static/js/main.1359129d.chunk.js.map",
     "runtime-main.js": "/GoblinWebsite/static/js/runtime-main.3b5e783b.js",
     "runtime-main.js.map": "/GoblinWebsite/static/js/runtime-main.3b5e783b.js.map",
     "static/js/2.1e284c41.chunk.js": "/GoblinWebsite/static/js/2.1e284c41.chunk.js",
     "static/js/2.1e284c41.chunk.js.map": "/GoblinWebsite/static/js/2.1e284c41.chunk.js.map",
     "index.html": "/GoblinWebsite/index.html",
-    "precache-manifest.318b266cdf966ac68b9bf675eccb4aaf.js": "/GoblinWebsite/precache-manifest.318b266cdf966ac68b9bf675eccb4aaf.js",
+    "precache-manifest.3fb64fd01c2559a64ad215fa561b1ac9.js": "/GoblinWebsite/precache-manifest.3fb64fd01c2559a64ad215fa561b1ac9.js",
     "service-worker.js": "/GoblinWebsite/service-worker.js",
     "static/css/main.f9d96440.chunk.css.map": "/GoblinWebsite/static/css/main.f9d96440.chunk.css.map",
     "static/media/logo.svg": "/GoblinWebsite/static/media/logo.25bf045c.svg",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.3b5e783b.js",
     "static/js/2.1e284c41.chunk.js",
     "static/css/main.f9d96440.chunk.css",
-    "static/js/main.eae63d82.chunk.js"
+    "static/js/main.1359129d.chunk.js"
   ]
 }
